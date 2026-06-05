@@ -5,6 +5,8 @@
 
 <p align="center">
   <i>Improves your Hello Neighbor experience.</i>
+  <br>
+  <br>
 > [!WARNING]
 > This got purely uploaded in archival purposes and it's still in beta.
 </p>
