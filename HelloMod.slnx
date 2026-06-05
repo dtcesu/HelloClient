@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="HelloMod/HelloMod.vcxproj" Id="78366f23-febf-4cf2-89ce-595b3eefe56b" />
+  <Project Path="HelloServer/HelloServer.vcxproj" Id="73011a55-3a41-473d-9736-9cbaa144e65f" />
+</Solution>
